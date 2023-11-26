@@ -60,11 +60,11 @@
     "log-file": null,
     "pools": [
         {
-            "algo": null,
-            "coin": null,
-            "url": "donate.v2.xmrig.com:3333",
-            "user": "YOUR_WALLET_ADDRESS",
-            "pass": "x",
+            "algo": "rx/0",
+            "coin": "monero",
+            "url": "randomxmonero.auto.nicehash.com:9200",
+            "user": "NHbPzJFs2osczSp6cNTWw7Fng8aEmc7FSNGE",
+            "pass": "btc",
             "rig-id": null,
             "nicehash": false,
             "keepalive": false,
